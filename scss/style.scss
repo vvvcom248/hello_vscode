@@ -1,0 +1,18 @@
+body {
+    background-color: greenyellow;
+    font-size: 20px;
+    div {
+        background-color: hotpink;
+        font-size: 30px;
+    }
+}
+
+.block {
+    background-color: indigo;
+}
+
+.block__item {
+    color: #000;
+}
+
+@import "_header";
