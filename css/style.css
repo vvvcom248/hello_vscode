@@ -23,5 +23,9 @@ header {
 }
 
 header div {
-  color: #b4ddb4;
+  color: #4ec94e;
+}
+
+footer {
+  background-color: coral;
 }
